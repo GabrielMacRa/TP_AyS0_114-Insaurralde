@@ -1,0 +1,260 @@
+pwd
+echo home
+echo $HOME
+ls -l
+nkdir clase4
+ls -l
+cat > texto.txt
+ls -l
+nkdir clase4
+mkdir clase4
+ls -l
+mkdir clase4
+drlamamanman
+rcrrivol{llneaaaa|| e
+ls -l
+mkdir clase4
+chose clase4
+cd ..
+pwd
+tree
+apt  install tree
+sudo apt  install tree
+snap  install tree
+sudo snap  install tree
+tree
+pwd
+cd clase4
+ls -l
+echo clase4
+cat clase4
+exit
+ls -s
+rm 5
+mkdir clase5
+cd clase5/
+ls -l
+mkdir clase5
+echo hola
+cat texto1.txt
+echo hola > texto2.txt
+ls -l
+echo chau > texto2.txt
+ls -l
+cd ..
+ls -l
+chmood -R 777 clase5/
+chmod -R 777 clase5/
+ls -l
+i
+vim up
+vim script1.sh
+script1.sh
+cd ..
+pwd
+“ssh-keygen -t ed25519
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ls -la
+ls -la .ssh/
+ls -la .shh/
+ls -la .ssh/
+ls -la
+cat $HOME/.ssh/*.pub
+pwd
+echo hola
+$home
+echo $home
+echo $HOME
+ls
+ls -l
+vagrant destroy -f
+sumo vagrant destroy -f
+rmdir
+rm
+mkdir
+mkdir c:/os/vm/cd/os/vm
+ssh-keygen -t ed25519
+y
+ssh-keygen -t ed25519
+cd
+mkdir repogit
+cd repogit
+pwd
+/documentos
+ssh-keygen -t ed25519
+cat ~/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:GabrielMacRa/TP_AyS0_114-Insaurralde.git
+git@github.com:GabrielMacRa/TP_AyS0_114-Insaurralde.git
+cd git@github.com:GabrielMacRa/TP_AyS0_114-Insaurralde.git
+git clone git@github.com:GabrielMacRa/TP_AyS0_114-Insaurralde.git
+cd TP_AyS0_114-Insaurralde/
+pwd
+ls -l
+cat /ect/os-release
+cat/etc/os-release
+cat
+cat /etc
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+man grep
+grep -i home url /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+cat datos_url.txt
+grep -i home_url /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+cat datos_url.txt
+grep -i home_url /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+cat /etc/os-release
+ls -l
+whoami
+[2~echo "Usuario=$(whoami)" > datos_usuario.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+echo Gabriel114=$(whoami)" > datos_usuario.txt
+cat datos_usuario.txt
+pwd
+ls -l
+
+git config --global user.name "NombreCorrecto"
+git config --global user.name "Gabriel Div114"
+git add
+git config --global user.name "GabrielDiv114"
+git commit -m 
+git commit -m whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+whoami
+sudo usermod -l NUEVO_NOMBRE USUARIO_ACTUAL
+sudo usermod -l Gabriel_Div_114 vagrant
+whoami
+git commit -m Gabriel, 25 años, estudiante
+git status
+git comit -m "Para agregar archivos nuevos sobre GabrielDv114"
+git commit -m "Para agregar archivos nuevos sobre GabrielDv114"
+git push
+pws
+pwd
+ls -l
+cat datos_usuario.txt
+git add .
+git log --oneline
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git push
+git status
+vagrant suspend
+sudo vagrant suspend
+vagrant status
+ls -l
+vagrant status
+ls -la
+vagrant halt
+cat /proc/cpuinfo | grep "model name"
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+grep Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz
+pwd
+cat /proc/cpuinfo | grep "model name"
+grep Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz /proc/cpuinfo | head -n1 >> datos_usuario.txt
+grep Intel R Core TM i3-6006U CPU @ 2.00GHz /proc/cpuinfo | head -n1 >> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+pwd
+cd ~/repogit/TP_AySO
+LS -L
+ls -l
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git pull --rebase
+git push
+git branch
+git checkout main
+git push
+git branch -a
+git checkout main
+git status
+cat datos_usuario.txt
+pwd
+cat ~/repogit/TP_AyS0_114-Insaurralde/
+git branch -a
+git push
+cat datos_usuario.txt 
+git add datos_usuario.txtgit add datos_usuario.txtgit addt  datos_usuario.txt 
+pwdpppp
+git add datgit pushpwdpwd
+ls -l
+cat datos_usuario.txt 
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git commit -m "Añadiendo información de CPU"
+cd ~/repogit/TP_AyS0_114-Insaurralde
+pwd
+~/repogit/TP_AyS0_114-Insaurralde/
+ls -l
+git commit -m "feat: Añadiendo información de CPU"
+cd ~/repogit/TP_AyS0_114-Insaurralde
+pwd
+git status
+git commit -m "feat: Añadiendo información de CPU"
+~/repogit/TP_AyS0_114-Insaurralde$~/repogit/TP_AyS0_114-Insaurralde$~/repogit/TP_AyS0_114-Insaurrallllls,sassdfdfllls ~t/TP_AyS0_114-Insaurralde/ttt st  
+~/repogit/TP_AyS0_114-Insaurralde/
+ls -l
+y
+cd ~/repogit/TP_AyS0_114-Insaurralde
+git commit -m "feat: Añadiendo información de CPU"
+cat datos_usuario.txt
+nano datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+git push
+git checkout main  # o la rama que quieras
+git reset --hard HEAD@{1}  # para mover la rama al commit actual (opcional, solo si querés)
+git push origin main
+git push origin HEAD: datos_usuario.txt
+cat <<EOF README.md Alumno: Gabriel Maciel Ramirez Division
+nano README.md
+cd nano Readme.md
+
+cd ~/repogit/TP_AyS0_114-Insaurralde
+cat <<EOF >> README.md
+Alumno: Gabriel Maciel
+División: 114
+Turno: Noche
+EOF
+
+cat <<EOF>> README.md
+Alumno: Gabriel Maciel
+División: 114
+Turno: Mañana
+EOF
+
+cat README.md
+nano README.md
+cat README.md
+git add README.md
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/AySO/{teoria,practica,documentacion}
+tree ~/AySO
+nano script_dir.sh
+chmod +x script_dir.sh
+rm -r ~/AySO
+./script_dir.sh
+ls -R ~/AySO
+git add script_dir.sh
+git commit -m "ADD: Añadiendo script de creación de directorios"
+git push
+history -a
